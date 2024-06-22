@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm Akash, a beginner developer passionate about Java, Salesforce, Web development, Springboot. This README provides an overview of my projects, skills, and how to get in touch with me.
+Welcome to my GitHub profile! I'm Akash, a developer passionate about Java, Salesforce, Web development, Springboot. This README provides an overview of my projects, skills, and how to get in touch with me.
 
 📫 Contact Me
   Email: singhpariharakash@gmail.com
